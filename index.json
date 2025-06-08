@@ -1,0 +1,886 @@
+[
+  {
+    "name": "Alpine Linux",
+    "level": [
+      "Intermediate",
+      "Expert"
+    ],
+    "target": [
+      "not fork",
+      "no systemd",
+      "containers",
+      "docker",
+      "microservices",
+      "embedded systems",
+      "ultra lightweight",
+      "security",
+      "apk"
+    ]
+  },
+  {
+    "name": "Arch Linux",
+    "level": [
+      "Intermediate",
+      "Expert"
+    ],
+    "target": [
+      "not fork",
+      "rolling release",
+      "customization",
+      "advanced users",
+      "full control",
+      "minimalist",
+      "large community",
+      "deep learning curve",
+      "pacman"
+    ]
+  },
+  {
+    "name": "Archcraft",
+    "level": [
+      "Enthusiast"
+    ],
+    "target": [
+      "fork",
+      "aesthetic",
+      "tiling WMs",
+      "lightweight",
+      "ready to use",
+      "based on Arch",
+      "for laptops",
+      "intermediate users",
+      "pacman"
+    ]
+  },
+  {
+    "name": "Gentoo",
+    "level": [
+      "Intermediate",
+      "Expert"
+    ],
+    "target": [
+      "not fork",
+      "no systemd",
+      "compile everything",
+      "maximum performance",
+      "full control",
+      "highly customizable",
+      "Portage",
+      "compile",
+      "emerge"
+    ]
+  },
+  {
+    "name": "Kali Linux",
+    "level": [
+      "Intermediate",
+      "Expert"
+    ],
+    "target": [
+      "fork",
+      "pentesting",
+      "ethical hacking",
+      "security",
+      "forensics",
+      "network testing",
+      "auditing",
+      "containers",
+      "preinstalled tools",
+      "cybersecurity",
+      "apt"
+    ]
+  },
+  {
+    "name": "NixOS",
+    "level": [
+      "Intermediate",
+      "Expert"
+    ],
+    "target": [
+      "not fork",
+      "immutable system",
+      "declarative",
+      "reproducible",
+      "rollback",
+      "DevOps",
+      "nix-shell",
+      "stable configurations",
+      "software development",
+      "infrastructure as code",
+      "configuration file"
+    ]
+  },
+  {
+    "name": "Slackware",
+    "level": [
+      "Intermediate",
+      "Expert"
+    ],
+    "target": [
+      "not fork",
+      "no systemd",
+      "classic",
+      "stable",
+      "for purists",
+      "manual control",
+      "BSD-style",
+      "simple",
+      "minimalist",
+      "pkgtool"
+    ]
+  },
+  {
+    "name": "Void Linux",
+    "level": [
+      "Intermediate",
+      "Expert"
+    ],
+    "target": [
+      "not fork",
+      "no systemd",
+      "lightweight",
+      "old hardware",
+      "modern hardware",
+      "stable rolling release",
+      "terminal experience",
+      "xbps",
+      "independent"
+    ]
+  },
+  {
+    "name": "Bodhi Linux",
+    "level": [
+      "Beginner"
+    ],
+    "target": [
+      "based on Ubuntu",
+      "lightweight",
+      "low-end hardware",
+      "minimalist",
+      "Moksha desktop",
+      "user-friendly",
+      "low resource usage",
+      "customizable",
+      "apt"
+    ]
+  },
+  {
+    "name": "Elementary OS",
+    "level": [
+      "Beginner",
+      "Casual"
+    ],
+    "target": [
+      "based on Ubuntu",
+      "beginner friendly",
+      "aesthetic",
+      "macOS-like interface",
+      "stable",
+      "focus on design",
+      "preinstalled apps",
+      "privacy-respecting",
+      "apt"
+    ]
+  },
+  {
+    "name": "Kubuntu",
+    "level": [
+      "Beginner",
+      "Casual"
+    ],
+    "target": [
+      "based on Ubuntu",
+      "KDE Plasma desktop",
+      "user-friendly",
+      "feature-rich",
+      "customizable",
+      "stable",
+      "suitable for beginners",
+      "modern UI",
+      "apt",
+      "snap"
+    ]
+  },
+  {
+    "name": "Linux Mint",
+    "level": [
+      "Beginner",
+      "Casual"
+    ],
+    "target": [
+      "based on Ubuntu",
+      "based on Debian",
+      "beginner friendly",
+      "stable",
+      "traditional desktop layout",
+      "preinstalled apps",
+      "ready to use",
+      "Windows-like experience",
+      "apt",
+      "flatpak"
+    ]
+  },
+  {
+    "name": "Linux Lite",
+    "level": [
+      "Beginner",
+      "Casual"
+    ],
+    "target": [
+      "based on Ubuntu",
+      "lightweight",
+      "user-friendly",
+      "low-end hardware",
+      "XFCE desktop",
+      "Windows-like interface",
+      "minimal preinstalled apps",
+      "easy to use",
+      "apt"
+    ]
+  },
+  {
+    "name": "Lubuntu",
+    "level": [
+      "Beginner",
+      "Casual"
+    ],
+    "target": [
+      "based on Ubuntu",
+      "lightweight",
+      "LXQt desktop",
+      "low resource usage",
+      "suitable for older PCs",
+      "user-friendly",
+      "fast and energy-efficient",
+      "minimalist",
+      "apt",
+      "snap"
+    ]
+  },
+  {
+    "name": "MX Linux",
+    "level": [
+      "Beginner",
+      "Casual"
+    ],
+    "target": [
+      "based on Debian",
+      "midweight",
+      "user-friendly",
+      "stable",
+      "no systemd",
+      "good for beginners",
+      "low resource usage",
+      "custom tools",
+      "apt"
+    ]
+  },
+  {
+    "name": "Nobara Linux",
+    "level": [
+      "Casual",
+      "Enthusiast"
+    ],
+    "target": [
+      "based on Fedora",
+      "gaming focused",
+      "preconfigured for Proton/Wine",
+      "streaming ready",
+      "easy setup",
+      "GNOME and KDE editions",
+      "fixes Fedora gaming issues",
+      "content creators",
+      "dnf"
+    ]
+  },
+  {
+    "name": "Peppermint OS",
+    "level": [
+      "Beginner",
+      "Casual"
+    ],
+    "target": [
+      "based on Debian",
+      "lightweight",
+      "cloud-centric",
+      "low resource usage",
+      "hybrid desktop",
+      "suitable for older PCs",
+      "minimalist design",
+      "LXDE components",
+      "no systemd",
+      "ICE app integration",
+      "apt"
+    ]
+  },
+  {
+    "name": "Pop OS",
+    "level": [
+      "Beginner",
+      "Casual"
+    ],
+    "target": [
+      "based on Ubuntu",
+      "developers",
+      "creators",
+      "gaming friendly",
+      "System76 hardware integration",
+      "auto-tiling window manager",
+      "easy to use",
+      "modern GNOME experience",
+      "preinstalled drivers",
+      "apt",
+      "flatpak"
+    ]
+  },
+  {
+    "name": "Ubuntu",
+    "level": [
+      "Beginner",
+      "Casual"
+    ],
+    "target": [
+      "not fork",
+      "general purpose",
+      "desktop",
+      "servers",
+      "cloud",
+      "beginner friendly",
+      "large community",
+      "LTS versions",
+      "based on Debian",
+      "extensive documentation",
+      "immutable system",
+      "apt",
+      "snap"
+    ]
+  },
+  {
+    "name": "Ubuntu Mate",
+    "level": [
+      "Beginner",
+      "Casual"
+    ],
+    "target": [
+      "based on Ubuntu",
+      "traditional desktop",
+      "lightweight",
+      "low resource usage",
+      "revive older hardware",
+      "user friendly",
+      "beginner friendly",
+      "stability focused",
+      "apt",
+      "snap"
+    ]
+  },
+  {
+    "name": "Ubuntu Studio",
+    "level": [
+      "Beginner",
+      "Casual"
+    ],
+    "target": [
+      "based on Ubuntu",
+      "audio production",
+      "video editing",
+      "graphic design",
+      "content creation",
+      "preinstalled creative tools",
+      "low latency kernel",
+      "media professionals",
+      "apt",
+      "snap"
+    ]
+  },
+  {
+    "name": "Xubuntu",
+    "level": [
+      "Beginner",
+      "Casual"
+    ],
+    "target": [
+      "based on Ubuntu",
+      "lightweight",
+      "XFCE desktop",
+      "revive old hardware",
+      "stable",
+      "low resource usage",
+      "user friendly",
+      "ideal for older PCs",
+      "beginner friendly",
+      "apt",
+      "snap"
+    ]
+  },
+  {
+    "name": "Zorin OS",
+    "level": [
+      "Beginner",
+      "Casual"
+    ],
+    "target": [
+      "based on Ubuntu",
+      "windows alternative",
+      "beginner friendly",
+      "modern UI",
+      "preinstalled apps",
+      "good for switching from Windows",
+      "lightweight version available",
+      "business and education ready",
+      "stable",
+      "apt",
+      "flatpak",
+      "snap"
+    ]
+  },
+  {
+    "name": "Alma Linux",
+    "level": [
+      "Intermediate"
+    ],
+    "target": [
+      "RHEL fork",
+      "enterprise",
+      "binary compatible with RHEL",
+      "servers",
+      "cloud deployments",
+      "production environments",
+      "stable",
+      "long-term support",
+      "dnf"
+    ]
+  },
+  {
+    "name": "AntiX",
+    "level": [
+      "Casual",
+      "Enthusiast"
+    ],
+    "target": [
+      "based on Debian",
+      "no systemd",
+      "ultra lightweight",
+      "old hardware",
+      "fast boot",
+      "live sessions",
+      "init sysvinit",
+      "apt"
+    ]
+  },
+  {
+    "name": "Debian",
+    "level": [
+      "Intermediate"
+    ],
+    "target": [
+      "not fork",
+      "universal OS",
+      "base for many distros",
+      "stable",
+      "long-term support",
+      "servers",
+      "desktop",
+      "minimal or full install",
+      "massive repositories",
+      "apt"
+    ]
+  },
+  {
+    "name": "Endeavour OS",
+    "level": [
+      "Enthusiast"
+    ],
+    "target": [
+      "based on Arch",
+      "rolling release",
+      "easy Arch installation",
+      "terminal focused",
+      "lightweight",
+      "community support",
+      "minimal preinstalled software",
+      "customization",
+      "pacman"
+    ]
+  },
+  {
+    "name": "Fedora",
+    "level": [
+      "Intermediate"
+    ],
+    "target": [
+      "not fork",
+      "immutable system",
+      "bleeding edge",
+      "Gnome default",
+      "developer friendly",
+      "Wayland by default",
+      "Red Hat ecosystem",
+      "containers",
+      "workstations",
+      "servers",
+      "official spins available",
+      "dnf"
+    ]
+  },
+  {
+    "name": "Garuda Linux",
+    "level": [
+      "Enthusiast"
+    ],
+    "target": [
+      "based on Arch",
+      "gaming focused",
+      "performance tuned",
+      "Btrfs with snapshots",
+      "Zram enabled",
+      "KDE Plasma by default",
+      "preinstalled tools",
+      "visual aesthetics",
+      "rolling release",
+      "pacman"
+    ]
+  },
+  {
+    "name": "Manjaro",
+    "level": [
+      "Casual",
+      "Enthusiast"
+    ],
+    "target": [
+      "based on Arch",
+      "user friendly",
+      "rolling release",
+      "preinstalled tools",
+      "hardware detection",
+      "easy installer",
+      "graphical package manager",
+      "multiple desktop editions",
+      "pacman"
+    ]
+  },
+  {
+    "name": "Nitrux",
+    "level": [
+      "Enthusiast"
+    ],
+    "target": [
+      "not fork",
+      "NX Desktop (KDE-based)",
+      "AppImage focused",
+      "flatpak",
+      "immutable",
+      "minimalist",
+      "built on Debian base",
+      "OpenRC init"
+    ]
+  },
+  {
+    "name": "OpenMandriva",
+    "level": [
+      "Casual",
+      "Enthusiast"
+    ],
+    "target": [
+      "not fork",
+      "user friendly",
+      "RPM based",
+      "desktop focused",
+      "cutting-edge packages",
+      "Calamares installer",
+      "KDE Plasma",
+      "dnf"
+    ]
+  },
+  {
+    "name": "OpenSUSE Leap",
+    "level": [
+      "Intermediate"
+    ],
+    "target": [
+      "not fork",
+      "enterprise focused",
+      "based on SUSE Linux Enterprise",
+      "stable",
+      "YaST",
+      "RPM based",
+      "snapper Btrfs",
+      "good for developers",
+      "dnf",
+      "zypper"
+    ]
+  },
+  {
+    "name": "OpenSUSE Tumbleweed",
+    "level": [
+      "Enthusiast",
+      "Expert"
+    ],
+    "target": [
+      "not fork",
+      "rolling release",
+      "cutting edge",
+      "YaST",
+      "Btrfs",
+      "snapper",
+      "stable rolling",
+      "developer friendly",
+      "RPM based",
+      "zypper"
+    ]
+  },
+  {
+    "name": "Parrot OS",
+    "level": [
+      "Enthusiast",
+      "Intermediate"
+    ],
+    "target": [
+      "based on Debian",
+      "security",
+      "ethical hacking",
+      "forensics",
+      "pentesting",
+      "preinstalled tools",
+      "lightweight",
+      "privacy",
+      "apt"
+    ]
+  },
+  {
+    "name": "PureOS",
+    "level": [
+      "Beginner",
+      "Casual"
+    ],
+    "target": [
+      "based on Debian",
+      "privacy focused",
+      "free software only",
+      "used in Librem laptops",
+      "security",
+      "GNOME desktop",
+      "apt"
+    ]
+  },
+  {
+    "name": "Q4OS",
+    "level": [
+      "Beginner"
+    ],
+    "target": [
+      "based on Debian",
+      "low resource usage",
+      "Trinity Desktop",
+      "Windows-like",
+      "stable",
+      "ideal for legacy PCs",
+      "apt"
+    ]
+  },
+  {
+    "name": "Red Hat Enterprise Linux (RHEL)",
+    "level": [
+      "Intermediate",
+      "Expert"
+    ],
+    "target": [
+      "not fork",
+      "enterprise",
+      "servers",
+      "commercial support",
+      "certified hardware",
+      "long-term support",
+      "dnf"
+    ]
+  },
+  {
+    "name": "Rocky Linux",
+    "level": [
+      "Intermediate"
+    ],
+    "target": [
+      "RHEL fork",
+      "enterprise",
+      "binary compatible with RHEL",
+      "stable",
+      "production ready",
+      "dnf"
+    ]
+  },
+  {
+    "name": "Sparky Linux",
+    "level": [
+      "Beginner",
+      "Casual"
+    ],
+    "target": [
+      "based on Debian",
+      "lightweight",
+      "LXQt/XFCE",
+      "stable and rolling",
+      "custom tools",
+      "gaming edition available",
+      "apt"
+    ]
+  },
+  {
+    "name": "Tails",
+    "level": [
+      "Intermediate"
+    ],
+    "target": [
+      "based on Debian",
+      "privacy",
+      "amnesic OS",
+      "Tor integration",
+      "live USB",
+      "no trace left",
+      "secure communications",
+      "apt"
+    ]
+  },
+  {
+    "name": "Trisquel",
+    "level": [
+      "Beginner",
+      "Casual"
+    ],
+    "target": [
+      "based on Ubuntu",
+      "free software only",
+      "FSF endorsed",
+      "privacy",
+      "education",
+      "stable",
+      "ideal for freedom advocates",
+      "apt"
+    ]
+  },
+  {
+    "name": "Zevenet",
+    "level": [
+      "Expert"
+    ],
+    "target": [
+      "not fork",
+      "load balancing",
+      "network appliance",
+      "gateway",
+      "reverse proxy",
+      "server focused",
+      "enterprise",
+      "appliance"
+    ]
+  },
+  {
+    "name": "Deepin",
+    "level": [
+      "Beginner",
+      "Casual"
+    ],
+    "target": [
+      "based on Debian",
+      "user friendly",
+      "aesthetics focused",
+      "Deepin Desktop Environment (DDE)",
+      "Chinese origin",
+      "preinstalled apps",
+      "apt"
+    ]
+  },
+  {
+    "name": "BigLinux",
+    "level": [
+      "Beginner",
+      "Casual"
+    ],
+    "target": [
+      "based on Manjaro",
+      "Brazilian distribution",
+      "multilingual support",
+      "user friendly",
+      "custom KDE Plasma",
+      "hybrid ISO",
+      "pacman"
+    ]
+  },
+  {
+    "name": "KDE neon",
+    "level": [
+      "casual",
+      "Enthusiast"
+    ],
+    "target": [
+      "based on Ubuntu LTS",
+      "official KDE project",
+      "latest KDE software",
+      "stable base",
+      "developer friendly",
+      "apt"
+    ]
+  },
+  {
+    "name": "Linux Lite",
+    "level": [
+      "Beginner"
+    ],
+    "target": [
+      "based on Ubuntu LTS",
+      "lightweight",
+      "XFCE desktop",
+      "Windows-like UI",
+      "good for old hardware",
+      "apt"
+    ]
+  },
+  {
+    "name": "CachyOS",
+    "level": [
+      "Enthusiast",
+      "Expert"
+    ],
+    "target": [
+      "based on Arch",
+      "performance focused",
+      "ZSH by default",
+      "Bore scheduler",
+      "Wayland support",
+      "optimized packages",
+      "pacman"
+    ]
+  },
+  {
+    "name": "Puppy Linux",
+    "level": [
+      "Beginner",
+      "Casual"
+    ],
+    "target": [
+      "not fork",
+      "ultra lightweight",
+      "runs in RAM",
+      "good for old PCs",
+      "fast boot",
+      "different versions (Ubuntu/Debian/Slackware based)",
+      "frugal install"
+    ]
+  },
+  {
+    "name": "Vanilla OS",
+    "level": [
+      "casual",
+      "Intermediate",
+      "Enthusiast"
+    ],
+    "target": [
+      "immutable",
+      "based on Debian (formerly Ubuntu)",
+      "apx package manager",
+      "atomic updates",
+      "Nix/Flatpak/Deb/RPM support",
+      "containerized apps",
+      "new approach to Linux desktop"
+    ]
+  }
+]
